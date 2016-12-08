@@ -1,0 +1,2 @@
+# js-philosophies
+philosophies
